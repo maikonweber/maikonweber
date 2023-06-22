@@ -1,28 +1,32 @@
-# Seu Nome
+# Maikon Weber de Carvalho 
 
 ## Sobre mim
-Breve descrição sobre você, suas habilidades, interesses e experiência relevante.
-
+  
 ## Projetos Destacados
-
-- [Projeto 1](link_para_o_projeto) - Uma breve descrição do projeto e sua relevância.
-
-## Contribuições
-
+- [GroupLinkNetwork]([www.grouplinknetwork.com.br](https://grouplinknetwork.com/) - Desenvolvedor Backend
 
 ## Habilidades Técnicas
-- Linguagem 1
-- Linguagem 2
-- Framework 1
-- Ferramenta 1
-- Outra habilidade relevante
-
+-  Javascript -
+- Python -
+- C# - 
+- React - 
+- Svelte -
+- Nest.Js / Express.js - 
+- Django/Flask - 
+- Unity -
+- Rust -
+- Bevy Game Engine -
+- Docker -
+- Terraform -
+- Postgres
+- RabbitMQ/Kafta/Redis
+  
 ## Contato
 - LinkedIn: [Seu perfil do LinkedIn](in/maikonwebercorp);
-- Email: seuemail@example.com
+- Email: maikonweber@gmail.com
 
 ## Certificações
-- [Nome da Certificação](link_para_a_certificação) - Breve descrição ou detalhes relevantes.
+- [All-Certfication]() - Breve descrição ou detalhes relevantes.
 
 ## Idiomas
 - Idioma 1: Nível
