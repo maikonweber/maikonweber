@@ -12,7 +12,7 @@ Sinta-se à vontade para entrar em contato comigo através do meu  e-mail quase 
 
 ## Projetos Destacados
 - [GroupLinkNetwork]- 2,6anos ([www.grouplinknetwork.com.br](https://grouplinknetwork.com/) - Desenvolvedor Backend / Frontend;
--
+- RT ENGENHARIA - 2 meses - Desenvolvedor Senior Fullstack (PJ)
 -   
 ## Contato
 - LinkedIn: [Seu perfil do LinkedIn](in/maikonwebercorp);
