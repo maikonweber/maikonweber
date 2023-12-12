@@ -6,9 +6,9 @@ Olá! Meu nome é Maikon Weber. Sou apaixonado por Tecnologia, Ciência e Jogos,
 Minha jornada começo quando ganhei meu primeiro computador a 25 anos atras.Então já programei deste de Perl, Php, C++. Porém somente com 30 anos comecei a dedicar a  area do Desenvolvimento de Software com Nodejs(Javascript) e Python.
 
 Cursei a Universidade Cidade Verde e Programo Profissionalmente a 4 anos.
-Fui criado de software open-souce de Previsão de Numeros de Roleta e Automatização de Jogos.
+Fui criador de software open-souce de Previsão de Numeros de Roleta e Automatização de Jogos com Licensa MIT. (https://github.com/maikonweber/automatebet)
 
-Além do meu interesse por Tecnologia, também sou apaixonado por Jogos Competitivos, Ciência e Artes(Teatro e Música);
+Além do meu interesse por Tecnológia, também sou apaixonado por Jogos Competitivos, Ciência e Artes(Teatro e Música);
 
 Estou sempre fazendo projetos e oportunidades de aprendizado.
 Sinta-se à vontade para entrar em contato comigo através do meu  e-mail quase precise de um ajuda ou tenha interesse em criar algum projeto.
