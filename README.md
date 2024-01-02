@@ -20,6 +20,7 @@ Sinta-se à vontade para entrar em contato comigo através do meu  e-mail quase 
 ## Contato
 - LinkedIn: [Seu perfil do LinkedIn](in/maikonwebercorp);
 - Email: maikonweber@gmail.com
+- whapp: 55-11987205592
   
 ## Certificações
 https://github.com/maikonweber/certificado/tree/main 
