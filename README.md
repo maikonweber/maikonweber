@@ -3,7 +3,7 @@
 [![Site](https://img.shields.io/badge/Site-muttercorp.com.br-0A66C2?style=for-the-badge&logo=googlechrome)](https://muttercorp.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaikonWeber-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maikonwebercorp)
 [![X/Twitter](https://img.shields.io/badge/X-MaikonWeber1-000000?style=for-the-badge&logo=twitter)](https://x.com/MaikonWeber1)
-[![Email](https://img.shields.io/badge/Email-maikonweber@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:maikonweber@gmail.com)
+[![Email](https://img.shields.io/badge/Email-maikonweber@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:maikonweber@muttercorp.com.br)
 
 ---
 
