@@ -11,7 +11,7 @@
 
 Sou **Maikon Weber**, apaixonado por tecnologia, ciência, jogos e artes. Com mais de 4 anos de experiência profissional no desenvolvimento de software, atuo como **Founder e CTO da Mutter Corporation** ([muttercorp.com.br](https://muttercorp.com.br)), uma iniciativa voltada à criação de soluções digitais escaláveis, robustas e criativas.
 
-Minha jornada começou há 25 anos com meu primeiro computador — programei em linguagens como Perl, PHP e C++. Aos 30 anos, ingressei profissionalmente na área, especializando-me em desenvolvimento com **Node.js**, **Python**, **NestJS** e outras stacks modernas.
+Minha jornada começou há 25 anos com meu primeiro computador — programei em linguagens como Perl, PHP e C++. Aos 27 anos, ingressei profissionalmente na área, especializando-me em desenvolvimento com **Node.js**, **Python**, **NestJS** e outras stacks modernas.
 
 ---
 
